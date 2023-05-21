@@ -5,16 +5,11 @@
 
 ## About chatgpt-service and chatgpt-stream
 
-- chatgpt-service: [https://github.com/cookeem/chatgpt-service](https://github.com/cookeem/chatgpt-service) 
+- chatgpt-service: [https://github.com/hicdl/chatgpt-service](https://github.com/hicdl/chatgpt-service) 
   - chatgpt-service is a backend service, used to receive chatGPT messages in real time, and feed back to chatGPT-stream in real time through websocket
-- chatgpt-stream: [https://github.com/cookeem/chatgpt-stream](https://github.com/cookeem/chatgpt-stream) 
+- chatgpt-stream: [https://github.com/hicdl/chatgpt-stream](https://github.com/hicdl/chatgpt-stream) 
   - chatgpt-stream is a front-end service that receives messages returned by chatGPT-service in real time through websocket
-
-## gitee
-
-- [https://gitee.com/cookeem/chatgpt-service](https://gitee.com/cookeem/chatgpt-service) 
-- [https://gitee.com/cookeem/chatgpt-stream](https://gitee.com/cookeem/chatgpt-stream) 
-
+  
 ## Demo
 
 - Real-time conversation mode
@@ -29,7 +24,7 @@
 
 ```bash
 # Pull source code
-git clone https://github.com/cookeem/chatgpt-service.git
+git clone https://github.com/hicdl/chatgpt-service.git
 cd chatgpt-service
 
 # ChatGPT's registration page: https://beta.openai.com/signup

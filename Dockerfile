@@ -1,7 +1,7 @@
 FROM alpine:3.15.3
 
-LABEL maintainer="cookeem"
-LABEL email="cookeem@qq.com"
+LABEL maintainer="hicdl"
+LABEL email="hicdl@163.com"
 LABEL version="v1.0.3"
 
 RUN adduser -h /chatgpt-service -u 1000 -D dory
